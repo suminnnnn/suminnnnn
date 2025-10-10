@@ -8,8 +8,9 @@
 <br>
 
 ### History
+🦋 **SKALA 2nd** *2025.07 ~ 2025.12*  
 💻 **Crewvation Server Developer** *2024.08 ~ 2025.01*  
-👾 **Central Makeus Challenge 15th** *2024.05 ~ 2024.09*  
+👾 **Central MakeUs Challenge 15th** *2024.05 ~ 2024.09*  
 🧠 **Ymatics AI Backend Internship** *2024.03 ~ 2024.06*  
 🌱 **Ajou Startup Club Server Developer** *2023.08 ~ 2024.02*  
 🎓 **Ajou University** *2021.03 ~ 2026.02*  
