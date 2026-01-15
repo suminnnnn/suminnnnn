@@ -16,21 +16,6 @@
 🎓 **Ajou University** *2021.03 ~ 2026.02*  
 <br>
 
-### Tech Stack
-**Languages**: Java, Python  
-**Frameworks**: Spring Boot, Spring Batch, Spring Security, LangChain, LangGraph  
-**Databases**: MySQL, Redis, Qdrant  
-**Infra**: AWS, Docker  
-**DevOps**: GitHub Actions, Jenkins, Pinpoint, nGrinder, Sentry  
-<br>
-
-### Awards
-🥇 *Central MakeUs Challenge 15th Demo Day*  
-🥇 *G-HOP Startup Competition*  
-🥇 *LINC 3.0 AJOU-GOOD Demo Day*  
-🥈 *SKKU Startup Club Competition*  
-<br>
-
 ### Publications
 🧾 *"A Comparative Analysis of Bias in Korean Small Language Models for Ethical AI"*  
 > Presented at **KIBME Summer Conference 2024** & Selected as an **Outstanding Paper** in Oral Session  
